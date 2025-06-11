@@ -58,7 +58,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=PostgreSQL&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)  
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?logo=PowerApps&logoColor=white)
 
 ---
