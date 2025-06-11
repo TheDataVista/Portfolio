@@ -89,7 +89,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="">Download my CV</a></td>
+      <td><a href="[IhsanHasanCV ].pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
