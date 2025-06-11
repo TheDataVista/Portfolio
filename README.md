@@ -47,13 +47,13 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 ---
 
 ## 📜 Certifications  
- - ✅ Rows & Columns, Kozhikode, Kerala
-Excel, Power Query & Power BI (Basic to Advanced) — January 12, 2025
+ - ✅ Rows & Columns, Kozhikode, Kerala.
+Excel, Power Query & Power BI (Basic to Advanced) — January 2025
 
- - 🎯 Estudo School of Skills, Kozhikode
+ - 🎯 Estudo School of Skills, Kozhikode.
 Master in Power BI — March 2024
 
- - 🧠 Udemy (Online)
+ - 🧠 Udemy (Online).
 Data Analysis in Excel, SQL, Python — September 2023
 
 ---
