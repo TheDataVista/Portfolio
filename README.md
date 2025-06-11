@@ -47,9 +47,14 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 ---
 
 ## 📜 Certifications  
-- ✅ Codebasics Certified: Advanced Excel, Power BI Developer, SQL Developer  
-- 🎯 SPES-Rashtriya Raksha University: Certificate in Sports Analytics  
-- ⚽ Mad About Sports: Advanced Football Analytics Master Class  
+ - ✅ Rows & Columns, Kozhikode, Kerala
+Excel, Power Query & Power BI (Basic to Advanced) — January 12, 2025
+
+ - 🎯 Estudo School of Skills, Kozhikode
+Master in Power BI — March 2024
+
+ - 🧠 Udemy (Online)
+Data Analysis in Excel, SQL, Python — September 2023
 
 ---
 
