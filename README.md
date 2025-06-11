@@ -57,6 +57,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=PostgreSQL&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
 
 ---
