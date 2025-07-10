@@ -32,7 +32,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 🌐 Visualized regional and product-level sales insights to uncover performance gaps and growth opportunities.  
 📊 Developed interactive dashboards featuring metrics, forecasts, and geographic breakdowns for retail strategy.  
 🚀 Enabled informed decision-making through detailed trend analyses and predictive models.  
-![image](Super store sales dashboard.pbix)  
+(Super store sales dashboard.pbix)  
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
