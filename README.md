@@ -28,11 +28,11 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 
 ## 📊 Projects  
 
-### BI 360 – [Power BI and MySQL]  
-🌍 AtliQ's global expansion led to complex challenges and losses in Latin America.  
-🔍 We developed interactive Power BI dashboards for finance, sales, marketing, supply chain, and executive insights.  
-📈 Empowered AtliQ with data-driven strategies for growth.  
-![image](BI360.jpg)  
+### BI 360 – [Power BI and Excel]  
+🌐 Visualized regional and product-level sales insights to uncover performance gaps and growth opportunities.  
+📊 Developed interactive dashboards featuring metrics, forecasts, and geographic breakdowns for retail strategy.  
+🚀 Enabled informed decision-making through detailed trend analyses and predictive models.  
+![image](Super store sales dashboard.pbix)  
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
