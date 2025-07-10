@@ -28,12 +28,12 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 
 ## 📊 Projects  
 
-### BI 360 – [Power BI and Excel]  
+### Super-Store-Sales-Dashboard – [Power BI and Excel]  
 🌐 Visualized regional and product-level sales insights to uncover performance gaps and growth opportunities.  
 📊 Developed interactive dashboards featuring metrics, forecasts, and geographic breakdowns for retail strategy.  
 🚀 Enabled informed decision-making through detailed trend analyses and predictive models.  
 ![Super Store Dashboard](images/superstore-dashboard.png)  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+[🔗 View Dashboard]()  
 
 ---
 
@@ -42,7 +42,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and l
 💡 Developed interactive dashboards to analyze key metrics, including RevPAR, ADR, and occupancy.  
 📊 Insights supported decision-making for enhanced performance.  
 ![image](hospitality.jpg)  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)  
+[🔗 View Dashboard]()  
 
 ---
 
