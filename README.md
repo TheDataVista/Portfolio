@@ -94,7 +94,7 @@ Data Analysis in Excel, SQL, Python — September 2023
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="[IhsanHasanCV ].pdf">Download my CV</a></td>
+      <td><a href="[[[IhsanHasanCV ].pdf](https://github.com/TheDataVista/Portfolio.git)](https://github.com/TheDataVista/Ihsan_CV.git)">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
