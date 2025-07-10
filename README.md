@@ -70,7 +70,7 @@ Data Analysis in Excel, SQL, Python — September 2023
 
 ## 🎯 Interests  
 - 📊 Dashboard Design  
-- ⚽ Football & Cricket Analytics  
+- 📚 Storytelling via Data 
 - 🎬 Movies & 🎒 Traveling
 
 ---
@@ -94,7 +94,7 @@ Data Analysis in Excel, SQL, Python — September 2023
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="[[[IhsanHasanCV ].pdf](https://github.com/TheDataVista/Portfolio.git)](https://github.com/TheDataVista/Ihsan_CV.git)">Download my CV</a></td>
+      <td><a href="(https://github.com/TheDataVista/Ihsan_CV.git)">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
