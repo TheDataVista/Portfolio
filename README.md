@@ -130,7 +130,7 @@ Analyzed 2.47M+ business license records to identify trends, compliance risks, a
 
 ### 🎥 Dashboard Walkthrough
 
-[▶ Watch Demo on YouTube]([YOUR_YOUTUBE_LINK](https://youtu.be/lhCoU9f5VZE))
+👉 **[Watch Demo on YouTube](https://youtu.be/lhCoU9f5VZE)**
 
 ---
 
