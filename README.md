@@ -154,7 +154,9 @@ Developed a logistics performance dashboard to monitor fleet operations and ship
 
 🔗 Dashboard Link
 
-Logistic_Operation_video_compressed.mp4
+### 🎥 Dashboard Walkthrough
+
+[▶ Watch Dashboard Demo](https://github.com/TheDataVista/YourRepo/blob/main/pharmacy-dashboard-demo.mp4)
 
 ---
 
