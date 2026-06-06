@@ -146,17 +146,11 @@ Developed a logistics performance dashboard to monitor fleet operations and ship
 - Shipment delay analysis
 - Route performance tracking
 - Weather impact analysis
-- Automated operational reporting
-
-📷 Dashboard Screenshot
-
-![Dashboard](images/logistics-dashboard.png)
-
-🔗 Dashboard Link
+- Automated operational reportin
 
 ### 🎥 Dashboard Walkthrough
 
-[▶ Watch Dashboard Demo](https://github.com/TheDataVista/YourRepo/blob/main/pharmacy-dashboard-demo.mp4)
+[▶ Watch Dashboard Demo](https://github.com/TheDataVista/Portfolio/blob/main/Logistic_Operation_video_compressed.mp4)
 
 ---
 
