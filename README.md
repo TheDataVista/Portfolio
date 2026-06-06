@@ -107,7 +107,7 @@ Developed real-time dashboards for statewide infrastructure project monitoring a
 
 🔗 Dashboard Link
 
-PMS Amrut Dashboard
+[PMS Amrut Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNmZTI5YjYtOGNmNC00YjQ1LWFhNDgtZmIwNWY0OWFjMTg1IiwidCI6IjVhZmVlMDM2LWRkMDktNGZhMi05YmEzLTZhMTQzYjdkYmU1MyJ9)
 
 ---
 
