@@ -174,7 +174,7 @@ Analyzed pharmaceutical retail sales performance across Europe.
 
 📷 Dashboard Screenshot
 
-![Dashboard](images/pharmacy_sale1 (1).png)
+![Dashboard](images/pharmacy_sale1(1).png)
 
 
 🔗 Dashboard Link
