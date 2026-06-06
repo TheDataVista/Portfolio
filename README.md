@@ -177,8 +177,8 @@ Analyzed pharmaceutical retail sales performance across Europe.
 ![Dashboard](images/pharmacy-dashboard.png)
 
 🔗 Dashboard Link
-
-https://app.powerbi.com/view?r=eyJrIjoiYjIyYjg4OWQtMTJkMC00NGJjLWI4MTEtMDViZDk2NDc2MDE0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+[Pharmacy Sales Dashboard]
+(https://app.powerbi.com/view?r=eyJrIjoiYjIyYjg4OWQtMTJkMC00NGJjLWI4MTEtMDViZDk2NDc2MDE0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ---
 
