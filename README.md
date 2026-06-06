@@ -187,8 +187,6 @@ https://app.powerbi.com/view?r=eyJrIjoiYjIyYjg4OWQtMTJkMC00NGJjLWI4MTEtMDViZDk2N
 
 ### Bachelor of Science (B.Sc.)
 
-Hotel Management & Catering Science
-
 JDT Islam College of Arts & Science
 
 2016 – 2019
