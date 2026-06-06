@@ -128,9 +128,9 @@ Analyzed 2.47M+ business license records to identify trends, compliance risks, a
 
 ![Dashboard](images/business-license-dashboard.png)
 
-🔗 Dashboard Link
+### 🎥 Dashboard Walkthrough
 
-(Add Link)
+[▶ Watch Demo on YouTube]([YOUR_YOUTUBE_LINK](https://youtu.be/lhCoU9f5VZE))
 
 ---
 
