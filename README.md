@@ -154,7 +154,7 @@ Developed a logistics performance dashboard to monitor fleet operations and ship
 
 🔗 Dashboard Link
 
-(Add Link)
+Logistic_Operation_video_compressed.mp4
 
 ---
 
