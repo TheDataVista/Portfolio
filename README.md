@@ -2,7 +2,7 @@
 <tr>
 <td width="30%">
 
-<img src="images/DSC01281.jpg" width="220">
+<img src="DSC01281.jpg" width="220">
 
 </td>
 
