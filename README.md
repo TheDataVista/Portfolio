@@ -124,10 +124,6 @@ Analyzed 2.47M+ business license records to identify trends, compliance risks, a
 - Interactive drill-through reporting
 - City-level performance monitoring
 
-📷 Dashboard Screenshot
-
-![Dashboard](images/business-license-dashboard.png)
-
 ### 🎥 Dashboard Walkthrough
 
 👉 **[Watch Video on YouTube](https://youtu.be/lhCoU9f5VZE)**
@@ -148,10 +144,6 @@ Developed a logistics performance dashboard to monitor fleet operations and ship
 - Weather impact analysis
 - Automated operational reportin
 
- 📷 Dashboard Screenshot
-
-![Dashboard](images/business-license-dashboard.png)
-
 ### 🎥 Dashboard Walkthrough
 
 👉 **[Watch Video on YouTube](https://youtu.be/gc6NHvHTvAg)**
@@ -171,11 +163,6 @@ Analyzed pharmaceutical retail sales performance across Europe.
 - Regional Performance Comparison
 - Product Category Analysis
 - Geographic Reporting
-
-📷 Dashboard Screenshot
-
-![Dashboard](images/pharmacy_sales.png)
-
 
 🔗 Dashboard Link
 [Pharmacy Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjIyYjg4OWQtMTJkMC00NGJjLWI4MTEtMDViZDk2NDc2MDE0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
