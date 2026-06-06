@@ -130,7 +130,7 @@ Analyzed 2.47M+ business license records to identify trends, compliance risks, a
 
 ### 🎥 Dashboard Walkthrough
 
-👉 **[Watch Demo on YouTube](https://youtu.be/lhCoU9f5VZE)**
+👉 **[Watch Video on YouTube](https://youtu.be/lhCoU9f5VZE)**
 
 ---
 
@@ -148,9 +148,13 @@ Developed a logistics performance dashboard to monitor fleet operations and ship
 - Weather impact analysis
 - Automated operational reportin
 
+ 📷 Dashboard Screenshot
+
+![Dashboard](images/business-license-dashboard.png)
+
 ### 🎥 Dashboard Walkthrough
 
-[▶ Watch Dashboard Demo](https://github.com/TheDataVista/Portfolio/blob/main/Logistic_Operation_video_compressed.mp4)
+👉 **[Watch Video on YouTube](https://youtu.be/gc6NHvHTvAg)**
 
 ---
 
