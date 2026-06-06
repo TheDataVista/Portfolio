@@ -106,7 +106,8 @@ Developed real-time dashboards for statewide infrastructure project monitoring a
 
 [PMS Amrut Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNmZTI5YjYtOGNmNC00YjQ1LWFhNDgtZmIwNWY0OWFjMTg1IiwidCI6IjVhZmVlMDM2LWRkMDktNGZhMi05YmEzLTZhMTQzYjdkYmU1MyJ9)
 
-https://app.powerbi.com/view?r=eyJrIjoiNGRkZmYwNWEtMmFjYS00Mjc3LWJhOTMtZTk4MTU0MDEzZTY2IiwidCI6IjVhZmVlMDM2LWRkMDktNGZhMi05YmEzLTZhMTQzYjdkYmU1MyJ9&pageName=3e4bb2b95ce1d7de6113
+WQMIS Dashboard
+
 ---
 
 ## 📊 Business License Analytics Dashboard
