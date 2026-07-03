@@ -130,7 +130,7 @@ Analyzed 2.47M+ business license records to identify trends, compliance risks, a
 
 ### 📂 Repository
 
-👉 **[View Project on GitHub](https://github.com/TheDataVista/RepositoryName)**
+👉 **[View Project on GitHub](https://github.com/TheDataVista/License-Analytics-Dashboard)**
 
 ---
 
@@ -154,7 +154,7 @@ Developed a logistics performance dashboard to monitor fleet operations and ship
 
 ### 📂 Repository
 
-👉 **[View Project on GitHub](https://github.com/TheDataVista/RepositoryName)**
+👉 **[View Project on GitHub](https://github.com/TheDataVista/Logistics_Operation_Dashboard)**
 
 ---
 
@@ -177,7 +177,7 @@ Analyzed pharmaceutical retail sales performance across Europe.
 
 ### 📂 Repository
 
-👉 **[View Project on GitHub](https://github.com/TheDataVista/RepositoryName)**
+👉 **[View Project on GitHub](https://github.com/TheDataVista/Pharmacy_sale_dashboard)**
 
 ---
 
