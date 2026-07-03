@@ -169,6 +169,31 @@ Analyzed pharmaceutical retail sales performance across Europe.
 
 ---
 
+## 💳 Zephyr Bank Transaction Health Analytics Dashboard
+
+**Tools:** Power BI | DAX | Power Query | Excel
+
+Developed an interactive banking analytics dashboard to monitor transaction performance, fraud exposure, customer behavior, and merchant risk for a UK digital bank.
+
+### Features
+
+- Transaction health monitoring
+- Fraud detection & risk analysis
+- Customer segmentation & KYC insights
+- Merchant performance analysis
+- Domestic vs International transaction comparison
+- Device risk and fee deviation analysis
+
+### 🎥 Dashboard Walkthrough
+
+👉 **[Watch Video on YouTube](https://youtu.be/EjiLaFz-4O0)**
+
+### 📂 Repository
+
+👉 **[View Project on GitHub](https://github.com/TheDataVista/Zephyr-Bank-Transaction-Health-Analytics)**
+
+---
+
 # 🎓 Education
 
 ### Bachelor of Science (B.Sc.)
