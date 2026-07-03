@@ -128,6 +128,10 @@ Analyzed 2.47M+ business license records to identify trends, compliance risks, a
 
 👉 **[Watch Video on YouTube](https://youtu.be/lhCoU9f5VZE)**
 
+### 📂 Repository
+
+👉 **[View Project on GitHub](https://github.com/TheDataVista/RepositoryName)**
+
 ---
 
 ## 🚚 Logistics Operations & Delay Analytics Dashboard
@@ -148,6 +152,10 @@ Developed a logistics performance dashboard to monitor fleet operations and ship
 
 👉 **[Watch Video on YouTube](https://youtu.be/gc6NHvHTvAg)**
 
+### 📂 Repository
+
+👉 **[View Project on GitHub](https://github.com/TheDataVista/RepositoryName)**
+
 ---
 
 ## 💊 Pharmacy Sales & Profitability Dashboard
@@ -166,6 +174,10 @@ Analyzed pharmaceutical retail sales performance across Europe.
 
 🔗 Dashboard Link
 [Pharmacy Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjIyYjg4OWQtMTJkMC00NGJjLWI4MTEtMDViZDk2NDc2MDE0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+### 📂 Repository
+
+👉 **[View Project on GitHub](https://github.com/TheDataVista/RepositoryName)**
 
 ---
 
